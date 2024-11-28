@@ -31,12 +31,13 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-
+Watch dial
 ### Output:
+![Uploading Screenshot 2024-11-28 at 11.39.10 AM.png…]()
 
 
-### Name:
-### Register Number:
+### Name: AKASH G
+### Register Number:24900507
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
