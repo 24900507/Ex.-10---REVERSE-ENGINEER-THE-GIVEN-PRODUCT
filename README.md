@@ -33,7 +33,8 @@
 ## Input:
 Watch dial
 ### Output:
-![Uploading Screenshot 2024-11-28 at 11.39.10 AM.png…]()
+<img width="1440" alt="Screenshot 2024-11-28 at 11 39 10 AM" src="https://github.com/user-attachments/assets/4cf6a3c4-b69e-4357-9ca9-2d2a35de499e">
+
 
 
 ### Name: AKASH G
