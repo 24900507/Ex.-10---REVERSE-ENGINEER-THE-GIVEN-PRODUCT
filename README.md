@@ -1,6 +1,6 @@
 # Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 28.12.2024
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -34,6 +34,7 @@
 Watch dial
 ### Output:
 <img width="1440" alt="Screenshot 2024-11-28 at 11 39 10 AM" src="https://github.com/user-attachments/assets/4cf6a3c4-b69e-4357-9ca9-2d2a35de499e">
+<img width="1440" alt="Screenshot 2024-12-05 at 11 41 34 AM" src="https://github.com/user-attachments/assets/00248c64-0918-40b9-924a-e0d1f510124a">
 
 
 
